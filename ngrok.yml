@@ -1,0 +1,15 @@
+region: eu  
+tunnels:  
+    default:  
+        proto: tcp  
+        addr: 3389 
+region: eu  
+tunnels:  
+    default:  
+        proto: tcp  
+        addr: 3389 
+region: eu  
+tunnels:  
+    default:  
+        proto: tcp  
+        addr: 3389 
